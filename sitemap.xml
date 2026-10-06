@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://calldirectorai.github.io/mimia-beauty-home/</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://calldirectorai.github.io/mimia-beauty-home/services/brazilian-wax/</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://calldirectorai.github.io/mimia-beauty-home/concierge/</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://calldirectorai.github.io/mimia-beauty-home/instagram/</loc>
-    <changefreq>weekly</changefreq>
-  </url>
+  <url><loc>https://calldirectorai.github.io/mimia-beauty-home/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://calldirectorai.github.io/mimia-beauty-home/waxing/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://calldirectorai.github.io/mimia-beauty-home/services/brazilian-wax/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://calldirectorai.github.io/mimia-beauty-home/facials/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://calldirectorai.github.io/mimia-beauty-home/packages/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://calldirectorai.github.io/mimia-beauty-home/about/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://calldirectorai.github.io/mimia-beauty-home/contact/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://calldirectorai.github.io/mimia-beauty-home/concierge/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://calldirectorai.github.io/mimia-beauty-home/instagram/</loc><changefreq>weekly</changefreq></url>
 </urlset>
