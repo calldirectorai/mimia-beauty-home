@@ -12,3 +12,6 @@ section{padding:44px 0}
 #services .card img.photo{aspect-ratio:16/9!important}
 .ph-tall{aspect-ratio:16/10;min-height:0;width:100%}
 }
+/* Hero: less dead space above the headline */
+.hero{padding:clamp(28px,4vw,48px) 0 clamp(40px,5vw,64px)}
+@media(min-width:900px){.hero .photo{aspect-ratio:1/1!important}}
