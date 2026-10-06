@@ -19,3 +19,7 @@ section{padding:44px 0}
 @media(min-width:900px){.g4{grid-template-columns:repeat(4,1fr)}}
 @media(min-width:521px) and (max-width:899px){.g4{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:520px){.g4{grid-template-columns:1fr}}
+/* No split phone numbers; no one-word last lines in headings and intros */
+a[href^="tel:"],a[href^="sms:"]{white-space:nowrap}
+h1,h2,h3,.lead{text-wrap:balance}
+p,li{text-wrap:pretty}
