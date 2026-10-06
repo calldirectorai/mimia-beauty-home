@@ -15,3 +15,7 @@ section{padding:44px 0}
 /* Hero: less dead space above the headline */
 .hero{padding:clamp(28px,4vw,48px) 0 clamp(40px,5vw,64px)}
 @media(min-width:900px){.hero .photo{aspect-ratio:1/1!important}}
+/* Four-card rows: 4 across on desktop, 2x2 on tablet, no orphan card */
+@media(min-width:900px){.g4{grid-template-columns:repeat(4,1fr)}}
+@media(min-width:521px) and (max-width:899px){.g4{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:520px){.g4{grid-template-columns:1fr}}
