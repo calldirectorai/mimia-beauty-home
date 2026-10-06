@@ -4,3 +4,11 @@
 @media (scripting:none){.reveal{opacity:1;transform:none}}
 
 @media(min-width:900px){.foot-grid{grid-template-columns:1.1fr 1.9fr 1fr .8fr;gap:28px 44px}.site-footer .foot-grid>div:nth-child(2) ul{columns:2;column-gap:28px}.site-footer .foot-grid>div:nth-child(2) li{break-inside:avoid}}.site-footer{padding:44px 0 26px}
+/* Mobile length: card rows become swipeable rows; tighter section spacing */
+@media(max-width:700px){
+section{padding:44px 0}
+#services .grid,#signature .grid,#packages .grid{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:14px;margin-inline:-20px;padding:4px 20px 16px;scroll-padding-inline:20px;-webkit-overflow-scrolling:touch}
+#services .grid>.card,#signature .grid>.card,#packages .grid>.card{flex:0 0 84%;scroll-snap-align:start}
+#services .card img.photo{aspect-ratio:16/9!important}
+.ph-tall{aspect-ratio:16/10;min-height:0;width:100%}
+}
