@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /demo/
 
 Sitemap: https://calldirectorai.github.io/mimia-beauty-home/sitemap.xml

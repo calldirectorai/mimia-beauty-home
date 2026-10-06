@@ -2,7 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://calldirectorai.github.io/mimia-beauty-home/</loc>
-    <lastmod>2026-10-06T17:13:44.991Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://calldirectorai.github.io/mimia-beauty-home/services/brazilian-wax/</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://calldirectorai.github.io/mimia-beauty-home/concierge/</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://calldirectorai.github.io/mimia-beauty-home/instagram/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
